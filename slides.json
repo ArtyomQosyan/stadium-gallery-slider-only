@@ -1,0 +1,65 @@
+[
+  {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Exterior%20Estadio%20Santiago%20Bernab%C3%A9u.jpg?width=1600",
+    "title": "სანტიაგო ბერნაბეუ",
+    "description": "„რეალ მადრიდის“ ლეგენდარული საშინაო არენა — მსოფლიო ფეხბურთის ერთ-ერთი ყველაზე ცნობილი სტადიონი.",
+    "location": "მადრიდი, ესპანეთი",
+    "club": "რეალ მადრიდი",
+    "credit": "Sofíaa1999 · CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Exterior%20Estadio%20Santiago%20Bernab%C3%A9u.jpg"
+  },
+  {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Etihad%20Man.%20City%20Stadium.jpg?width=1600",
+    "title": "ეტიჰად სტედიუმი",
+    "description": "„მანჩესტერ სიტის“ საშინაო სტადიონი, რომელიც თანამედროვე ფეხბურთისა და სანახაობრივი მატჩების სიმბოლოდ იქცა.",
+    "location": "მანჩესტერი, ინგლისი",
+    "club": "მანჩესტერ სიტი",
+    "credit": "Vojta.zurek · CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Etihad%20Man.%20City%20Stadium.jpg"
+  },
+  {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Stadium%20of%20Football%20Club%20FC%20Barcelona%20-%20Camp%20Nou.jpg?width=1600",
+    "title": "კამპ ნოუ",
+    "description": "„ბარსელონას“ ისტორიული სტადიონი. გალერეაში წარმოდგენილია მისი ფოტო რეკონსტრუქციამდე.",
+    "location": "ბარსელონა, ესპანეთი",
+    "club": "ბარსელონა",
+    "credit": "ticketsluxury · CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Stadium%20of%20Football%20Club%20FC%20Barcelona%20-%20Camp%20Nou.jpg"
+  },
+  {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Allianz%20Arena%20in%20Munich.JPG?width=1600",
+    "title": "ალიანც არენა",
+    "description": "მიუნხენის „ბაიერნის“ გამორჩეული არენა, რომელიც განათებული ფასადით განსაკუთრებით ცნობილია.",
+    "location": "მიუნხენი, გერმანია",
+    "club": "ბაიერნი",
+    "credit": "Nicola Giorgione · CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Allianz%20Arena%20in%20Munich.JPG"
+  },
+  {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tbilisi%20Boris%20Paichadze%20Dinamo%20Arena%201.jpg?width=1600",
+    "title": "დინამო არენა",
+    "description": "ბორის პაიჭაძის სახელობის ეროვნული სტადიონი — ქართული ფეხბურთის მთავარი ისტორიული სცენა.",
+    "location": "თბილისი, საქართველო",
+    "club": "დინამო თბილისი / საქართველო",
+    "credit": "DJMX · CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tbilisi%20Boris%20Paichadze%20Dinamo%20Arena%201.jpg"
+  },
+  {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Inside%20Juventus%20Stadium.jpg?width=1600",
+    "title": "ალიანც სტედიუმი",
+    "description": "„იუვენტუსის“ საშინაო მოედანი ტურინში. ეს არ არის მიუნხენის „ალიანც არენა“ — ორი სხვადასხვა სტადიონია.",
+    "location": "ტურინი, იტალია",
+    "club": "იუვენტუსი",
+    "credit": "Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Inside%20Juventus%20Stadium.jpg"
+  },
+  {
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Anfield%20stadium%20%28Liverpool%29%20panorama%20view%20from%20main%20stand.jpg?width=1600",
+    "title": "ენფილდი",
+    "description": "„ლივერპულის“ ისტორიული სტადიონი, რომელიც განსაკუთრებული ატმოსფეროთი და გულშემატკივრებით არის ცნობილი.",
+    "location": "ლივერპული, ინგლისი",
+    "club": "ლივერპული",
+    "credit": "Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Anfield%20stadium%20%28Liverpool%29%20panorama%20view%20from%20main%20stand.jpg"
+  }
+]
